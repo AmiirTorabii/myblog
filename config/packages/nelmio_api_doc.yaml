@@ -1,0 +1,12 @@
+nelmio_api_doc:
+
+    documentation:
+        info:
+            title: 'API Documentation'
+            description: 'API description'
+            version: '1.0.0'
+    areas:
+        default:
+            disable_default_routes: false
+            name_patterns: []
+            host_patterns: []
